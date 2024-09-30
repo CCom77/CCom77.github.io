@@ -55,6 +55,8 @@ h1 {
   color: #ffffff;
   border-color: #ffffff;
   background-color: rgb(65, 65, 65);
+  border-radius: 15px;
+
 }
 a {
   text-decoration: none;
@@ -134,6 +136,7 @@ h2, h3 {
           border: 2px solid rgb(65, 65, 65);
           border-style: dashed;
           font-size:17px;
+          
       }
 
       #portfolio a {
